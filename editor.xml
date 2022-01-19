@@ -8,6 +8,7 @@
     <option name="JAVADOC_INFO_DELAY" value="500" />
   </component>
   <component name="EditorSettings">
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="InlayHintsSettings">
