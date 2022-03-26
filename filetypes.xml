@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ignore" type="AUTO_DETECTED" />
       <mapping pattern="d" type="AUTO_DETECTED" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern="awk.sh" approved="true" type="AUTO_DETECTED" />
