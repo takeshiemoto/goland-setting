@@ -5,6 +5,9 @@
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
